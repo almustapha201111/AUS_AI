@@ -1,0 +1,6 @@
+{
+  "name": "AUS AI",
+  "description": "A modern AI chatbot powered by Gemini with a sleek dark UI, conversation history, and helpful assistance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
